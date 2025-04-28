@@ -55,6 +55,7 @@ Ex: Contratei um recurso de banco de dados ORACLE, neste caso não preciso me pr
 
 R:Saas - A empresa contrata um recurso 100% pronto, não configura nada e nem instalar como MICROSOFT 360.
 —------------------------------------------------------------------------------------------------------------------------
+
 FASE 03
 INTERFACE DO AZURE
 D01

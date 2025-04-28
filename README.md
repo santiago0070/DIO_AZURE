@@ -54,6 +54,7 @@ R:Paas -Permite aos desenvolvedores criar, implantar e gerenciar aplicações se
 Ex: Contratei um recurso de banco de dados ORACLE, neste caso não preciso me preocupar com o armazenamento, pois ficará na nuvem.
 
 R:Saas - A empresa contrata um recurso 100% pronto, não configura nada e nem instalar como MICROSOFT 360.
+
 —------------------------------------------------------------------------------------------------------------------------
 
 FASE 03
